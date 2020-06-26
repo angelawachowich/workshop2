@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <div>
     <cows>
-        "grass! please! more grass!"
+        <p>"grass! please! more grass!"</p>
     </cows>
     
+    <horses> 
+        <p>"we're good, thanks."</p>
+    </horses>
 </div>
